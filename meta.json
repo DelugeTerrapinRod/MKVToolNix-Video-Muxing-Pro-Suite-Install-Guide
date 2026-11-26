@@ -1,0 +1,23 @@
+{
+  "repo": "mkvtoolnix-video-muxing-professional-suite-install-guide",
+  "product": "MKVToolNix Video Muxing Pro Suite Install Guide",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "mkvtoolnix-video-muxing-pro",
+    "mkvtoolnix-video-muxing",
+    "mkvtoolnix-video-pro",
+    "video-editing",
+    "how-to-install-mkvtoolnix-video-pro",
+    "how-to-setup-mkvtoolnix-video-pro",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "MKVToolNix Video Muxing Pro Suite Install Guide"
+}
